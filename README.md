@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sokijaja
+- 👀 I’m interested in general front end development. Specifically blockchain development. 
+- 🌱 I’m currently learning Next.Js
+- 💞️ I’m looking to collaborate on pretty much any project.
+- 📫 You can reach me via email; sokijaja@gmail.com ...
