@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sokijaja
+- 👋 Hi, I’m @soki
 - 👀 I’m interested in general front end development. Specifically blockchain development. 
 - 🌱 I’m currently learning Next.Js
 - 💞️ I’m looking to collaborate on pretty much any project.
