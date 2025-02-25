@@ -1,113 +1,84 @@
-<h1 align="center">Hi 👋, I'm Soki</h1>
-<h3 align="center">A passionate Frontend Developer from Nigeria</h3>
+# <div align="center">👨‍💻 Sokari Andrew-Jaja</div>
 
-<p align="center">
-  <a href="https://x.com/sokijaja" target="blank">
-    <img src="https://img.shields.io/twitter/follow/sokijaja?logo=twitter&style=for-the-badge" alt="sokijaja" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=6366F1&center=true&vCenter=true&random=false&width=580&lines=Frontend+Developer;UI%2FUX+Enthusiast;Problem+Solver;NextJS+%26+TypeScript+Expert;Creative+Technologist" alt="Typing SVG" />
+</div>
 
----
+<br/>
 
-## 🚀 Connect with me:
-<p align="center">
-  <a href="https://dev.to/sokijaja" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sokijaja" height="30" width="40" />
+<div align="center">
+  <a href="https://twitter.com/sokijaja" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/sokijaja?logo=twitter&style=for-the-badge&color=6366F1" alt="Twitter" />
   </a>
-  <a href="https://twitter.com/sokijaja" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sokijaja" height="30" width="40" />
+  <a href="https://linkedin.com/in/sokari-andrew-jaja-709754111" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&labelColor=blue&color=6366F1" alt="LinkedIn" />
   </a>
-  <a href="https://linkedin.com/in/sokari-andrew-jaja-709754111" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sokari-andrew-jaja-709754111" height="30" width="40" />
+  <a href="https://app.daily.dev/soki_v1" target="_blank">
+    <img src="https://img.shields.io/badge/daily.dev-Read-orange?style=for-the-badge&logo=hashnode&logoColor=white&labelColor=black&color=6366F1" alt="daily.dev" />
   </a>
-  <a href="https://stackoverflow.com/users/18601913" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18601913" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/sokijaja" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sokijaja" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/soki.psd" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="soki.psd" height="30" width="40" />
-  </a>
-</p>
+</div>
 
----
+## <div align="center">🚀 Turning Complex Ideas into Elegant Solutions</div>
 
-## 🛠️ Languages and Tools:
-<p align="center">
-  <a href="https://developer.android.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+<p align="center">I'm a frontend developer specializing in building exceptional digital experiences. With expertise in TypeScript, NextJS, and modern frontend frameworks, I create performant web applications that solve real business problems.</p>
+
+<img align="right" width="300" src="https://api.daily.dev/devcards/v2/a8o8cGL7Pyi76A88vvKil.png?r=asm&type=default" alt="Sokari's Dev Card" />
+
+### What I Bring to the Table:
+
+- 🔥 **Modern Web Solutions**: NextJS, TypeScript, and Tailwind CSS
+- 🎨 **Design-Focused Development**: Bringing Figma designs to life with pixel-perfect accuracy
+- ⚡ **Performance Optimization**: Creating lightning-fast web experiences
+- 🔄 **State Management Expert**: Redux, Zustand, Context API
+- 🔌 **Integration Specialist**: RESTful APIs, GraphQL, Firebase
+
+<br/>
+
+## 💼 Featured Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **WagerX Platform** | A modern gaming platform with real-time updates and secure transactions | NextJS, TypeScript, Firebase, Tailwind CSS |
+| **E-Commerce Solution** | Scalable shopping experience with advanced filtering and payment processing | React, Redux, Node.js, Stripe |
+| **Admin Dashboard** | Data visualization platform with customizable widgets and real-time analytics | TypeScript, React, D3.js, Material UI |
+
+<details>
+<summary>📊 My GitHub Stats</summary>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sokijaja&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sokijaja&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+</details>
+
+## 🛠️ Technology Stack
+
+<div align="center">
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></code>
+</div>
+
+## 🤝 Let's Build Something Amazing
+
+I'm always open to collaborating on interesting projects and innovative ideas. If you're looking for a developer who combines technical expertise with a keen eye for design and user experience, I'd love to connect!
+
+<div align="center">
+  <a href="mailto:soki.developer@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://angular.io" target="_blank">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
+  <a href="https://github.com/sokijaja">
+    <img src="https://img.shields.io/badge/View_Repositories-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://flutter.dev" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.nginx.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://reactnative.dev/" target="_blank">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
-  </a>
-</p>
+</div>
 
 ---
 
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sokijaja&show_icons=true&locale=en&layout=compact" alt="sokijaja" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sokijaja&" alt="sokijaja" />
-</p>
-
----
-
-## 🎮 Daily Dev Card:
-<p align="center">
-  <a href="https://app.daily.dev/soki_v1">
-    <img src="https://api.daily.dev/devcards/v2/a8o8cGL7Pyi76A88vvKil.png?r=asm&type=wide" width="652" alt="Sokari Andrew-Jaja's Dev Card"/>
-  </a>
-</p>
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sokijaja&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
