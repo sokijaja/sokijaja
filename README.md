@@ -106,8 +106,8 @@
 
 ## 🎮 Daily Dev Card:
 <p align="center">
-  <a href="https://app.daily.dev/sokijaja">
-    <img src="https://api.daily.dev/devcards/66678146e2df433bad41f5f250dbc377.png?r=l8m" width="400" alt="Sokari Andrew-Jaja's Dev Card"/>
+  <a href="https://app.daily.dev/soki_v1">
+    <img src="https://api.daily.dev/devcards/v2/a8o8cGL7Pyi76A88vvKil.png?r=asm&type=wide" width="652" alt="Sokari Andrew-Jaja's Dev Card"/>
   </a>
 </p>
 
