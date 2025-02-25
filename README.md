@@ -1,7 +1,7 @@
 # <div align="center">👨‍💻 Sokari Andrew-Jaja</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=6366F1&center=true&vCenter=true&random=false&width=580&lines=Frontend+Developer;UI%2FUX+Enthusiast;Problem+Solver;NextJS+%26+TypeScript+Expert;Creative+Technologist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=6366F1&center=true&vCenter=true&random=false&width=850&lines=Frontend+Developer;UI%2FUX+Enthusiast;Problem+Solver;NextJS+%26+TypeScript+Expert;Creative+Technologist" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -10,11 +10,8 @@
   <a href="https://twitter.com/sokijaja" target="_blank">
     <img src="https://img.shields.io/twitter/follow/sokijaja?logo=twitter&style=for-the-badge&color=6366F1" alt="Twitter" />
   </a>
-  <a href="https://linkedin.com/in/sokari-andrew-jaja-709754111" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&labelColor=blue&color=6366F1" alt="LinkedIn" />
-  </a>
-  <a href="https://app.daily.dev/soki_v1" target="_blank">
-    <img src="https://img.shields.io/badge/daily.dev-Read-orange?style=for-the-badge&logo=hashnode&logoColor=white&labelColor=black&color=6366F1" alt="daily.dev" />
+  <a href="https://wa.me/2348085930090" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </div>
 
@@ -22,7 +19,10 @@
 
 <p align="center">I'm a frontend developer specializing in building exceptional digital experiences. With expertise in TypeScript, NextJS, and modern frontend frameworks, I create performant web applications that solve real business problems.</p>
 
-<img align="right" width="300" src="https://api.daily.dev/devcards/v2/a8o8cGL7Pyi76A88vvKil.png?r=asm&type=default" alt="Sokari's Dev Card" />
+<picture>
+  <source media="(max-width: 640px)" srcset="" />
+  <img align="right" width="300" src="https://api.daily.dev/devcards/v2/a8o8cGL7Pyi76A88vvKil.png?r=asm&type=default" alt="Sokari's Dev Card" />
+</picture>
 
 ### What I Bring to the Table:
 
@@ -36,32 +36,79 @@
 
 ## 💼 Featured Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **WagerX Platform** | A modern gaming platform with real-time updates and secure transactions | NextJS, TypeScript, Firebase, Tailwind CSS |
-| **E-Commerce Solution** | Scalable shopping experience with advanced filtering and payment processing | React, Redux, Node.js, Stripe |
-| **Admin Dashboard** | Data visualization platform with customizable widgets and real-time analytics | TypeScript, React, D3.js, Material UI |
+<div class="projects-container">
+  <div class="project-card">
+    <h3>WagerX Platform</h3>
+    <p>A modern gaming platform with real-time updates and secure transactions</p>
+    <p><strong>Tech:</strong> NextJS, TypeScript, Firebase, Tailwind CSS</p>
+  </div>
+  <div class="project-card">
+    <h3>E-Commerce Solutions</h3>
+    <p>Scalable shopping experiences with advanced filtering and payment processing</p>
+    <p><strong>Tech:</strong> React, Redux, Node.js, Stripe</p>
+  </div>
+  <div class="project-card">
+    <h3>Admin Dashboards</h3>
+    <p>Data visualization platforms with customizable widgets and real-time analytics</p>
+    <p><strong>Tech:</strong> TypeScript, React, D3.js, Material UI</p>
+  </div>
+</div>
+
+<style>
+.projects-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1rem;
+}
+.project-card {
+  border: 1px solid #3730a3;
+  border-radius: 8px;
+  padding: 1rem;
+  background-color: rgba(99, 102, 241, 0.1);
+}
+</style>
 
 <details>
 <summary>📊 My GitHub Stats</summary>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sokijaja&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sokijaja&layout=compact&theme=tokyonight&hide_border=true" />
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=sokijaja&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+      media="(min-width: 768px)" 
+    />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=sokijaja&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=contribs" 
+      media="(max-width: 767px)" 
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=sokijaja&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  </picture>
+  
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sokijaja&layout=compact&theme=tokyonight&hide_border=true" 
+      media="(min-width: 768px)" 
+    />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sokijaja&layout=compact&theme=tokyonight&hide_border=true&card_width=320" 
+      media="(max-width: 767px)" 
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sokijaja&layout=compact&theme=tokyonight&hide_border=true" />
+  </picture>
 </div>
 </details>
 
 ## 🛠️ Technology Stack
 
 <div align="center">
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></code>
+  <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /></a>
 </div>
 
 ## 🤝 Let's Build Something Amazing
@@ -75,10 +122,26 @@ I'm always open to collaborating on interesting projects and innovative ideas. I
   <a href="https://github.com/sokijaja">
     <img src="https://img.shields.io/badge/View_Repositories-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://linkedin.com/in/sokari-andrew-jaja-709754111" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&labelColor=blue&color=6366F1" alt="LinkedIn" />
+  </a>
+  <a href="https://app.daily.dev/soki_v1" target="_blank">
+    <img src="https://img.shields.io/badge/daily.dev-Read-orange?style=for-the-badge&logo=hashnode&logoColor=white&labelColor=black&color=6366F1" alt="daily.dev" />
+  </a>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sokijaja&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <picture>
+    <source 
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=sokijaja&theme=tokyonight&hide_border=true&card_width=500" 
+      media="(min-width: 768px)" 
+    />
+    <source 
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=sokijaja&theme=tokyonight&hide_border=true&card_width=320" 
+      media="(max-width: 767px)" 
+    />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sokijaja&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </picture>
 </div>
