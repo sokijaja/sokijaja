@@ -36,37 +36,11 @@
 
 ## 💼 Featured Projects
 
-<div class="projects-container">
-  <div class="project-card">
-    <h3>WagerX Platform</h3>
-    <p>A modern gaming platform with real-time updates and secure transactions</p>
-    <p><strong>Tech:</strong> NextJS, TypeScript, Firebase, Tailwind CSS</p>
-  </div>
-  <div class="project-card">
-    <h3>E-Commerce Solutions</h3>
-    <p>Scalable shopping experiences with advanced filtering and payment processing</p>
-    <p><strong>Tech:</strong> React, Redux, Node.js, Stripe</p>
-  </div>
-  <div class="project-card">
-    <h3>Admin Dashboards</h3>
-    <p>Data visualization platforms with customizable widgets and real-time analytics</p>
-    <p><strong>Tech:</strong> TypeScript, React, D3.js, Material UI</p>
-  </div>
-</div>
-
-<style>
-.projects-container {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: 1rem;
-}
-.project-card {
-  border: 1px solid #3730a3;
-  border-radius: 8px;
-  padding: 1rem;
-  background-color: rgba(99, 102, 241, 0.1);
-}
-</style>
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **WagerX Platform** | A modern gaming platform with real-time updates and secure transactions | NextJS, TypeScript, Firebase, Tailwind CSS |
+| **E-Commerce Solutions** | Scalable shopping experiences with advanced filtering and payment processing | React, Redux, Node.js, Stripe |
+| **Admin Dashboards** | Data visualization platforms with customizable widgets and real-time analytics | TypeScript, React, D3.js, Material UI |
 
 <details>
 <summary>📊 My GitHub Stats</summary>
